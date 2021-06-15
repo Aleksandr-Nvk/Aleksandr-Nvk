@@ -1,3 +1,1 @@
-Junior Unity C# developer from Ukraine.
-
-alexandr.novik2@gmail.com
+C# and C developer from Ukraine
